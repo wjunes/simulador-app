@@ -7,7 +7,10 @@
         <entry key="..\:/Users/willa/Simulator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.192" />
         <entry key="..\:/Users/willa/Simulator/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.192" />
         <entry key="..\:/Users/willa/Simulator/app/src/main/res/drawable/ic_simulate.xml" value="0.138" />
-        <entry key="..\:/Users/willa/Simulator/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/willa/Simulator/app/src/main/res/layout/activity_detail.xml" value="0.4" />
+        <entry key="..\:/Users/willa/Simulator/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/willa/Simulator/app/src/main/res/layout/cd_simulate.xml" value="0.21374045801526717" />
+        <entry key="..\:/Users/willa/Simulator/app/src/main/res/layout/match_item.xml" value="0.4" />
         <entry key="..\:/Users/willa/Simulator/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1115" />
       </map>
     </option>
@@ -17,5 +20,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
   </component>
 </project>
